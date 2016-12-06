@@ -1,14 +1,29 @@
 {
-  "name": "AlloyImage",
+  "name": "alloy-image",
   "main": "release/alloyimage-1.1.js",
   "license": "MIT",
   "ignore": [
-    "package.json"
+    "package.json",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
   "keywords": [
+    "alloy-image",
+    "alloyimage",
     "AlloyImage",
     "javascript",
     "browser",
     "library"
-  ]
+  ],
+  "homepage": "https://github.com/debbbbie/AlloyImage",
+  "authors": [
+    "debbbbie <debbbbie@163.com>"
+  ],
+  "description": "An image processing lib based on html5",
+  "dependencies": {
+    "AlloyImage": "alloy-image#*"
+  }
 }
