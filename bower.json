@@ -23,7 +23,5 @@
     "debbbbie <debbbbie@163.com>"
   ],
   "description": "An image processing lib based on html5",
-  "dependencies": {
-    "AlloyImage": "alloy-image#*"
-  }
+  "version": "0.1.0"
 }
