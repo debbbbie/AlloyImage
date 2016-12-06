@@ -1,0 +1,14 @@
+{
+  "name": "AlloyImage",
+  "main": "release/alloyimage-1.1.js",
+  "license": "MIT",
+  "ignore": [
+    "package.json"
+  ],
+  "keywords": [
+    "AlloyImage",
+    "javascript",
+    "browser",
+    "library"
+  ]
+}
